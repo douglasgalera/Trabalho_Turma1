@@ -1,0 +1,37 @@
+.Background_B{
+    background-image: url(../img/Tela_Preta.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 150%;
+    color: white;
+}
+
+.Background_W{
+    background-image: url(../img/Tela_Branca.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 150%;
+    color: black;
+}
+
+.Botao{
+    position: fixed;
+    background-color: black;
+    height: 6%;
+    width: 3%;
+    border-radius: 200%;
+    left: 10.5%;
+    bottom: 49%;
+}
+
+.Tela{
+    position: fixed;
+    left: 17%;
+    top: 10%; 
+}
+
+.Resposta{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
